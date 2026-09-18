@@ -1,8 +1,8 @@
-# Banking-ATM-Simulation
+# Banking-ATM-System
 
 ## Project Overview
 
-**Banking & ATM Simulation** is a Java-based application designed to simulate basic banking operations through a user-friendly interface. The project allows users to create customer accounts, deposit and withdraw money, check account balances, transfer funds, and view transaction history.
+**Banking & ATM System** is a Java-based application designed to simulate basic banking operations through a user-friendly interface. The project allows users to create customer accounts, deposit and withdraw money, check account balances, transfer funds, and view transaction history.
 
 The application demonstrates the practical implementation of Object-Oriented Programming, encapsulation, collections, and exception handling in Java.
 
